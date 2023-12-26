@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/sumarray/bin/Debug/net7.0/sumarray
+/Users/macos/Desktop/Operator/sumarray/bin/Debug/net7.0/sumarray.deps.json
+/Users/macos/Desktop/Operator/sumarray/bin/Debug/net7.0/sumarray.runtimeconfig.json
+/Users/macos/Desktop/Operator/sumarray/bin/Debug/net7.0/sumarray.dll
+/Users/macos/Desktop/Operator/sumarray/bin/Debug/net7.0/sumarray.pdb
+/Users/macos/Desktop/Operator/sumarray/obj/Debug/net7.0/sumarray.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/sumarray/obj/Debug/net7.0/sumarray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/sumarray/obj/Debug/net7.0/sumarray.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/sumarray/obj/Debug/net7.0/sumarray.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/sumarray/obj/Debug/net7.0/sumarray.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/sumarray/obj/Debug/net7.0/sumarray.dll
+/Users/macos/Desktop/Operator/sumarray/obj/Debug/net7.0/refint/sumarray.dll
+/Users/macos/Desktop/Operator/sumarray/obj/Debug/net7.0/sumarray.pdb
+/Users/macos/Desktop/Operator/sumarray/obj/Debug/net7.0/sumarray.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/sumarray/obj/Debug/net7.0/ref/sumarray.dll
